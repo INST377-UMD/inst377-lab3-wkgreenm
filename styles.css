@@ -1,0 +1,11 @@
+body { font-family: Arial; margin: 0 }
+.hf { background: #339966; text-align: center; margin: 10px; padding: 10px }
+nav ul { list-style: none; padding: 0; display: flex; justify-content: center; gap: 20px }
+nav a { text-decoration: none; color: black; padding: 5px }
+nav a:hover { color: #006666 }
+.container { display: flex; margin: 10px }
+.main { background: #66cc99; width: 70%; margin: 10px; padding: 10px }
+.sidebar { background: #33cccc; width: 25%; margin: 10px; padding: 10px }
+.sidebar:hover { background: #3399cc }
+input[type=text] { width: 150px }
+input[type=text]:focus { width: 250px }
